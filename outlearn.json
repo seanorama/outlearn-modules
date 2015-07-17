@@ -9,14 +9,14 @@
       "privacy" : "public",
       "pages" : [
         {"page" : "./pages/welcome.md"},
-        {"module" : "my-outlearn-module"},
+        {"module" : "kerberos-with-active-directory"},
         {"page" : "./pages/closing.md"}
       ]
     }
   ],
 
   "modules" : [
-    {"olm" : "./modules/my-outlearn-module.md"}
+    {"olm" : "./modules/kerberos-with-active-directory.md"}
   ],
 
   "assets" : [

@@ -9,7 +9,7 @@
       "privacy" : "public",
       "pages" : [
         {"page" : "./pages/welcome.md"},
-        {"module" : "my-outlearn-module"},
+        {"module" : "kerberos-with-active-directory"},
         {"page" : "./pages/closing.md"}
       ]
     }

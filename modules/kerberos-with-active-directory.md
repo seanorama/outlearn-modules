@@ -34,11 +34,11 @@ This video shows what you will learn to do:
 
 <!-- @section -->
 
-< !-- @task, "text" : "Run the above code example on your own machine."-->
+<!-- @task, "text" : "Run the above code example on your own machine."-->
 
-< !-- @task, "hasDeliverable" : true, "text" : "Fork the repository above, fix the broken test, and submit a URL for your pull-request."-->
+<!-- @task, "hasDeliverable" : true, "text" : "Fork the repository above, fix the broken test, and submit a URL for your pull-request."-->
 
-< !-- @link, "url" : "https://nodejs.org/", "text": "Install NodeJS" -->
+<!-- @link, "url" : "https://nodejs.org/", "text": "Install NodeJS" -->
 
 <!-- @section -->
 

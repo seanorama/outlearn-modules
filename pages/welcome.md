@@ -1,5 +1,12 @@
 # Welcome
 
+This tutorial describes how to refine data for a Trucking IoT Data Discovery (aka IoT Discovery) use case using the Hortonworks Data Platform. The IoT Discovery use cases involves vehicles, devices and people moving across a map or similar surface. Your analysis is interested in tying together location information with your analytic data.
+For our tutorial we are looking at a use case where we have a truck fleet. Each truck has been equipped to log location and event data. These events are streamed back to a datacenter where we will be processing the data.  The company wants to use this data to better understand risk.
+
+
+...
+
+
 This is where it all starts, your first path page. This page is your chance to make a great first impression. So let your personality come through and make sure to get your learners excited about embarking on your path.
 
 The best way to keep your learners' attention is with a crisp description of what your path is all about. For this sample path, the goal is get you started with creating your own Outlearn content as fast as possible. The target audience is **you**, and anyone else wanting to share amazing learning resources with other devs on a platform specifically built to let your content shine.

@@ -16,7 +16,7 @@
   ],
 
   "modules" : [
-    {"olm" : "./modules/my-outlearn-module.md"}
+    {"olm" : "./modules/kerberos-with-active-directory.md"}
   ],
 
   "assets" : [

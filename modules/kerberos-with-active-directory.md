@@ -34,6 +34,14 @@ This video shows what you will learn to do:
 
 <!-- @section -->
 
+< !-- @task, "text" : "Run the above code example on your own machine."-->
+
+< !-- @task, "hasDeliverable" : true, "text" : "Fork the repository above, fix the broken test, and submit a URL for your pull-request."-->
+
+< !-- @link, "url" : "https://nodejs.org/", "text": "Install NodeJS" -->
+
+<!-- @section -->
+
 # What is this page?
 
 This is a placeholder Learning Module for you to customize.  Look in the `my-outlearn-module.md` to see how it is coded up, and then start editing away with your own content.

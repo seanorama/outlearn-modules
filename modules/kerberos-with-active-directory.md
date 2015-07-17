@@ -1,8 +1,8 @@
 <!--
 {
-"name": "my-outlearn-module",
+"name": "kerberos-with-active-directory",
 "version" : "0.1",
-"title" : "My Outlearn Module",
+"title" : "Enabling Kerberos with Ambari and Active Directory",
 "description" : "This module will grow to be the best module ever",
 "homepage" : "https://github.com/outlearn-content/outlearn-modules",
 "freshnessDate" : 2015-07-08,

@@ -12,6 +12,28 @@
 
 <!-- @section -->
 
+# What will this tutorial cover?
+
+In this tutorial we will be providing the collected geolocation and truck data.
+
+- We will import this data into HDFS and build derived tables in Hive.
+- Then we will process the data using Pig, Hive and Spark.
+- The processed data is then imported into Microsoft Excel where it can be visualized.
+
+- To refine and analyze Geolocation data, we will:
+  - Review some Hadoop Fundamentals
+  - Download and extract the Geolocation data files.
+  - Load the captured data into the Hortonworks Sandbox.
+  - Run Hive,Pig and Spark scripts that compute truck mileage and driver risk factor.
+  - Access the refined sensor data with Microsoft Excel.
+  - Visualize the sensor data using Excel Power View.
+
+This video shows what you will learn to do:
+
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=n8fdYHoEEAM" -->
+
+<!-- @section -->
+
 # What is this page?
 
 This is a placeholder Learning Module for you to customize.  Look in the `my-outlearn-module.md` to see how it is coded up, and then start editing away with your own content.

@@ -3,7 +3,7 @@
 
   "paths" : [
     {
-      "name" : "testing outlearn",
+      "name" : "testing-outlearn",
       "title" : "Testing Outlearn",
       "description" : "Testing Outlearn to see if it will work for us",
       "privacy" : "public",

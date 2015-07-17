@@ -30,7 +30,7 @@ In this tutorial we will be providing the collected geolocation and truck data.
 
 This video shows what you will learn to do:
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=n8fdYHoEEAM" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/n8fdYHoEEAM" -->
 
 <!-- @section -->
 
